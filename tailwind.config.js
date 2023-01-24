@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://img.freepik.com/free-vector/empty-sky-nature-scene-park_1308-50041.jpg?w=1060&t=st=1674532195~exp=1674532795~hmac=5b03edc032ad7f490d29686f89295b00a1b8fda6ae76092a87d965820a976e7d')",
         },
       },
     },
