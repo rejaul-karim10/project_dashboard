@@ -17,7 +17,6 @@ const Kanban = () => {
       dataSource={kanbanData}
       cardSettings={{contentField: "Summery", headerField: "Id"}}
       keyField="Status"
-      
       >
         <ColumnsDirective>
         {kanbanGrid.map((item, index)=>(<ColumnDirective key={index} {...item}/>))}
